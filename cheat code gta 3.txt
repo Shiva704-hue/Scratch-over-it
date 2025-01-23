@@ -1,0 +1,59 @@
+• GUNSGUNSGUNS
+Toutes les armes sont en votre possession.
+
+• IFIWEREARICHMAN
+Vous donne de l'argent.
+
+• GESUNDHEIT
+Vous redonne votre niveau de vie au maximum.
+
+• TURTOISE
+Vous obtenez vie et armure à 100%.
+
+• ILIKEDRESSINGUP
+Changez de peau, vous vous sentirez mieux...
+
+• NOPOLICEPLEASE
+Vous n'etes plus recherché.
+
+• MOREPOLICEPLEASE
+Vous etes recherché par les forces de l'ordres.
+
+• GIVEUSATANK
+Vous avez un tank. (sauvegardez votre partie avant !)
+
+• BANGBANGBANG
+Fait exploser toutes les voitures qui sont a proximité.
+
+• ITSALLGOINGMAAAD
+Les piétons deviennent fou. (sauvegardez votre partie avant !)
+
+• NOBODYLIKESME
+Les piétons vous détestent. (sauvegardez votre partie avant !)
+
+• WEAPONSFORALL
+Donne des armes à tous les piétons. (sauvegardez votre partie avant !)
+
+• TIMEFLIESWHENYOU
+Le temps accelère et vous et tous les personnages avance rapidement.
+
+• SKINCANCERFORME
+Change la météo.
+
+• ILIKESCOTLAND
+Change la météo.
+
+• ILOVESCOTLAND
+Change la météo.
+
+• PEASOUP
+Toute la ville est sous le brouillard.
+
+• MADWEATHER
+Accelère le temps.
+
+• CORNERSLIKEMAD
+La voiture ne derape plus.
+
+• CHITTYCHITTYBB
+Les voitures peuvent voler.
